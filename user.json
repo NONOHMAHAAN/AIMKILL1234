@@ -8,8 +8,15 @@
             "device_id": "ba937e8d6f7e676a"
         },
         {
-            "username": "tsg",
+            "username": "nono",
             "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-27",
+            "device_id": "503567a17d523098"
+        },
+        {
+            "username": "nonomahaan",
+            "password": "$2a$12$buHBS4s7aSsoLcxksWLlXuxIWQkIoxaY2PHcUi.N7sRK.rzP57yqy",
             "subscription": "aimkillapk",
             "expiry": "2025-04-27",
             "device_id": "503567a17d523098"
