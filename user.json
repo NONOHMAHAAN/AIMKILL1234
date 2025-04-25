@@ -1,11 +1,11 @@
 {
     "admin": [
         {
-            "username": "nono",
-            "password": "69",
+            "username": "pramod",
+            "password": "$2y$12$LGJ0S58rBV/MZoxgaZ/.1u25qmXcXqoeunZJaof/YpVtKu8/KiprC",
             "subscription": "aimkillapk",
             "expiry": "2025-04-27",
-            "device_id": "ba937e8d6f7e676a"
+            "device_id": ""
         },
         {
             "username": "tsg",
