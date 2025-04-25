@@ -2,10 +2,10 @@
     "admin": [
         {
             "username": "pramod",
-            "password": "$2y$12$LGJ0S58rBV/MZoxgaZ/.1u25qmXcXqoeunZJaof/YpVtKu8/KiprC",
+            "password": "$2y$12$LGJ0S58rBV\/MZoxgaZ\/.1u25qmXcXqoeunZJaof\/YpVtKu8\/KiprC",
             "subscription": "aimkillapk",
             "expiry": "2025-04-27",
-            "device_id": ""
+            "device_id": "ba937e8d6f7e676a"
         },
         {
             "username": "tsg",
@@ -65,7 +65,7 @@
         },
         {
             "username": "nono",
-            "password": "$2b$12$FLHRN5iIclCu6uVO7tF5suXmn1v7X.NbK9vK9E/jpAmA83jg52Nkq",
+            "password": "$2b$12$FLHRN5iIclCu6uVO7tF5suXmn1v7X.NbK9vK9E\/jpAmA83jg52Nkq",
             "subscription": "aimkillapk",
             "expiry": "2025-05-25",
             "device_id": ""
