@@ -1,11 +1,11 @@
 {
-  "admin": [
-    {
-      "username": "nono",
-      "password": "1",
-      "subscription": "aimkillapk",
-      "expiry": "2025-04-27",
-      "device_id": ""
-    }
-  ]
+    "admin": [
+        {
+            "username": "nono",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-27",
+            "device_id": "ba937e8d6f7e676a"
+        }
+    ]
 }
