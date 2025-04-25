@@ -1,3 +1,11 @@
 {
-    "admin": []
+    "admin": [
+        {
+            "username": "nono",
+            "password": "69",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-25",
+            "device_id": ""
+        }
+    ]
 }
