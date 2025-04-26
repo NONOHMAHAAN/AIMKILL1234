@@ -55,6 +55,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-26",
             "device_id": ""
+        },
+        {
+            "username": "bakko",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-26",
+            "device_id": ""
         }
     ]
 }
