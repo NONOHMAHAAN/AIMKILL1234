@@ -104,6 +104,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-26",
             "device_id": ""
+        },
+        {
+            "username": "vardan",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-26",
+            "device_id": ""
         }
     ]
 }
