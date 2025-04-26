@@ -97,6 +97,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-05-28",
             "device_id": ""
+        },
+        {
+            "username": "venom",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-26",
+            "device_id": ""
         }
     ]
 }
