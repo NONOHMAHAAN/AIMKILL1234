@@ -132,6 +132,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-27",
             "device_id": "634a28e1f8f6956f"
+        },
+        {
+            "username": "vaidik",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "9999-05-27",
+            "device_id": ""
         }
     ]
 }
