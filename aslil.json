@@ -139,6 +139,13 @@
             "subscription": "aimkillapk",
             "expiry": "9999-05-27",
             "device_id": ""
+        },
+        {
+            "username": "deep",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "9999-05-27",
+            "device_id": ""
         }
     ]
 }
