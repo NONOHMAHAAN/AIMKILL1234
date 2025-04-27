@@ -14,6 +14,13 @@
             "expiry": "2025-05-25",
             "device_id": "826602a7390d7f2a"
         },
+         {
+            "username": "test",
+            "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
+            "subscription": "aimkillapk",
+            "expiry": "2025-05-25",
+            "device_id": ""
+        },
         {
             "username": "69",
             "password": "69",
