@@ -160,6 +160,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-28",
             "device_id": ""
+        },
+        {
+            "username": "randiaadmi",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2026-05-28",
+            "device_id": ""
         }
     ]
 }
