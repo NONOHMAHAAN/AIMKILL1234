@@ -19,14 +19,14 @@
             "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
             "subscription": "aimkillapk",
             "expiry": "2025-05-25",
-            "device_id": "12773e93beea886b"
+            "device_id": ""
         },
         {
-            "username": "test2",
+            "username": "test1",
             "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
             "subscription": "aimkillapk",
             "expiry": "2025-05-25",
-            "device_id": "de4de3b417a7931c"
+            "device_id": ""
         },
         {
             "username": "69",
