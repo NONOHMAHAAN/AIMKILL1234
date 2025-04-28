@@ -153,6 +153,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-05-28",
             "device_id": "96eb0ebeffd9d5f5"
+        },
+        {
+            "username": "loda",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2026-05-28",
+            "device_id": ""
         }
     ]
 }
