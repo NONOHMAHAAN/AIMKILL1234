@@ -272,6 +272,13 @@
             "subscription": "aimkillapk",
             "expiry": "9999-05-29",
             "device_id": ""
+        },
+        {
+            "username": "ASLIL4",
+            "password": "ASLIL4",
+            "subscription": "aimkillapk",
+            "expiry": "9999-05-29",
+            "device_id": ""
         }
     ]
 }
