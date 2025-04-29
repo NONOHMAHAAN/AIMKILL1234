@@ -195,6 +195,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-01",
             "device_id": ""
+        },
+        {
+            "username": "tsgkabeta2",
+            "password": "tsgkabeta2",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-29",
+            "device_id": ""
         }
     ]
 }
