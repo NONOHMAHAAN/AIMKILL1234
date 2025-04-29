@@ -363,6 +363,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-29",
             "device_id": ""
+        },
+        {
+            "username": "ASLIL17",
+            "password": "ASLIL17",
+            "subscription": "aimkillapk",
+            "expiry": "2027-05-29",
+            "device_id": ""
         }
     ]
 }
