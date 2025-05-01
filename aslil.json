@@ -433,6 +433,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-31",
             "device_id": ""
+        },
+        {
+            "username": "sins",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2026-05-31",
+            "device_id": ""
         }
     ]
 }
