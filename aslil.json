@@ -419,6 +419,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-31",
             "device_id": ""
+        },
+        {
+            "username": "DHEERAJ",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2027-05-31",
+            "device_id": ""
         }
     ]
 }
