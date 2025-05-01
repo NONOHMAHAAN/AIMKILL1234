@@ -391,6 +391,13 @@
             "subscription": "aimkillapk",
             "expiry": "9999-05-31",
             "device_id": ""
+        },
+        {
+            "username": "GORAKH",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "9999-05-31",
+            "device_id": ""
         }
     ]
 }
