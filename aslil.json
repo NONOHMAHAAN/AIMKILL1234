@@ -454,6 +454,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-05-31",
             "device_id": ""
+        },
+        {
+            "username": "1111",
+            "password": "1111",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-01",
+            "device_id": ""
         }
     ]
 }
