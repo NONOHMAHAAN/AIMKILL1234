@@ -1,6 +1,5 @@
 {
     "admin": [
-        
         {
             "username": "ayush",
             "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
@@ -13,9 +12,8 @@
             "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
             "subscription": "aimkillapk",
             "expiry": "2025-05-25",
-            "device_id": ""
+            "device_id": "bced44d84bc9ab56"
         },
-        
         {
             "username": "Cheetah",
             "password": "$2a$12$yJ9wUSJ3AZeGKE57r.ZYJen8RfP5pSW5oeRQDPcuZ1Ac5cPhEU.me",
