@@ -461,6 +461,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-01",
             "device_id": "4776f1880d2fb996"
+        },
+        {
+            "username": "naruto",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2026-06-01",
+            "device_id": ""
         }
     ]
 }
