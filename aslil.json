@@ -510,6 +510,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-07",
             "device_id": ""
+        },
+        {
+            "username": "toxic",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2029-06-07",
+            "device_id": ""
         }
     ]
 }
