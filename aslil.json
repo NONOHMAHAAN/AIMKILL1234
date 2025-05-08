@@ -503,6 +503,13 @@
             "subscription": "aimkillapk",
             "expiry": "2027-06-07",
             "device_id": "16ce4be8ea5d1e3a"
+        },
+        {
+            "username": "blaze",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-07",
+            "device_id": ""
         }
     ]
 }
