@@ -524,6 +524,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-06-07",
             "device_id": ""
+        },
+        {
+            "username": "raxis2",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2026-06-07",
+            "device_id": ""
         }
     ]
 }
