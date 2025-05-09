@@ -517,13 +517,6 @@
             "subscription": "aimkillapk",
             "expiry": "2029-06-07",
             "device_id": "aaafe03504d9053a"
-        },
-        {
-            "username": "aimkill-1",
-            "password": "1",
-            "subscription": "aimkillapk",
-            "expiry": "2026-06-07",
-            "device_id": "4f071cec64d2b9e5"
         }
     ]
 }
