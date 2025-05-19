@@ -9,6 +9,16 @@
             "created_on": "2025-05-14 10:56:38"
         },
         {
+            "username": "JAGGA KI MAA CHOD DI SAKIB NE",
+            "subscription": "active",
+            "expiry": "2026-05-14",
+            "hwid": "S-1-5-21-1752814967-2531507320-2351262402-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-05-14 10:56:38"
+        },
+        
+        
+        {
             "username": "AAND",
             "subscription": "active",
             "expiry": "2025-08-12",
@@ -355,6 +365,7 @@
             "subscription": "aimkillapk",
             "expiry": "2028-02-07",
             "device_id": "30e9493968e47371"
+              "free_user": true
         },
         {
             "username": "JEET",
