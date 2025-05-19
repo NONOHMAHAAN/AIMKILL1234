@@ -1,1 +1,1421 @@
-
+{
+  "admin": [
+    {
+      "username": "feri",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-1752814967-2531507320-2351262402-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 10:56:38"
+    },
+    {
+      "username": "AAND",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-4064639553-4225986833-3764904168-1001",
+      "package": "AI",
+      "created_on": "2025-05-14 11:00:32"
+    },
+    {
+      "username": "AAND",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-4064639553-4225986833-3764904168-1001",
+      "package": "AI",
+      "created_on": "2025-05-14 11:00:32"
+    },
+    {
+      "username": "gebre",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-2343154432-1173226691-2759894105-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 11:01:50"
+    },
+    {
+      "username": "tb8",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-1458876410-3732377980-2002512640-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 11:25:22"
+    },
+    {
+      "username": "live",
+      "password": "$2y$12$6/Gw27RoxCV7tz2SEJsL5.IJpwTrq0En4EvQbfAVu9nq6k.yiRKx6",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-21",
+      "device_id": ""
+    },
+    {
+      "username": "how",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-2835378242-1266050820-2843713033-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 11:35:26"
+    },
+    {
+      "username": "SHRIS",
+      "subscription": "active",
+      "expiry": "2025-06-13",
+      "hwid": "S-1-5-21-4064639553-4225986833-3764904168-1001",
+      "package": "AI",
+      "created_on": "2025-05-14 11:44:39"
+    },
+    {
+      "username": "JINS",
+      "subscription": "active",
+      "expiry": "2025-05-21",
+      "hwid": "S-1-5-21-3896210843-503729785-1962803034-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 11:47:48"
+    },
+    {
+      "username": "SHRI",
+      "subscription": "active",
+      "expiry": "2025-06-13",
+      "hwid": "S-1-5-21-4064639553-4225986833-3764904168-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-14 11:51:05"
+    },
+    {
+      "username": "MUMAJJAD",
+      "subscription": "active",
+      "expiry": "2025-05-25",
+      "hwid": "S-1-5-21-1846082612-3057724928-1342362423-1001",
+      "package": "AI",
+      "created_on": "2025-05-14 11:51:46"
+    },
+    {
+      "username": "NAKUL",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-2027271465-187890152-407863548-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 11:57:23",
+      "device_id": ""
+    },
+    {
+      "username": "SCAR",
+      "password": "$2y$12$nqR3EL5jRou/MXzSisn71e2u/PFn9lIQUCdbjFS5.J2QezQxMVIRm",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-12",
+      "device_id": "50bcd93d23291cd7"
+    },
+    {
+      "username": "SCARY",
+      "subscription": "active",
+      "expiry": "2025-06-03",
+      "hwid": "S-1-5-21-3922181100-2586546372-2435265734-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-14 12:04:24"
+    },
+    {
+      "username": "HYPER",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-52721675-2476947680-533618254-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 12:09:34"
+    },
+    {
+      "username": "ANKI",
+      "password": "$2y$12$jXK9U9hgwJK9KN52glg1uO0iMx1xuomUgL.d1.Dr2EGI2VMisubSW",
+      "subscription": "TERMINAL",
+      "expiry": "2025-06-13",
+      "device_id": "bd66645cddac1236"
+    },
+    {
+      "username": "ROHN",
+      "password": "$2y$12$VYPV6SNbvQr1oy0oK3JekO1pjJxgdbNcYT0ry.lb3tdcONpQvsa4m",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-12",
+      "device_id": "767ae7b3fa6f5fb4"
+    },
+    {
+      "username": "any",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-1690974970-1549162395-676238961-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 12:29:39"
+    },
+    {
+      "username": "YASHRAJ",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-2629825365-4030563897-3082295902-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 12:32:35"
+    },
+    {
+      "username": "ABHAY",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-1322239090-698640719-1288662716-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 12:34:36"
+    },
+    {
+      "username": "YASHRAJ",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-2629825365-4030563897-3082295902-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-14 12:37:43"
+    },
+    {
+      "username": "JOD",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-3045927045-2304269439-1587159341-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 12:40:51"
+    },
+    {
+      "username": "JOD",
+      "subscription": "active",
+      "expiry": "2025-08-12",
+      "hwid": "S-1-5-21-3045927045-2304269439-1587159341-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-14 12:46:06"
+    },
+    {
+      "username": "GOAT",
+      "password": "$2y$12$z.MK4XVqOkhIyCyQTAOjqOAxx3.xJLTLj5Z8cWcP.cKUPCQEty.2i",
+      "subscription": "TERMINAL",
+      "expiry": "2025-06-13",
+      "device_id": "cfba29f6a72bef8a"
+    },
+    {
+      "username": "subh",
+      "password": "$2y$12$8vYeT1vjGYOcGYDg.YNh4.5fDEXr8q.wNkvALLsdhF58xWYWIAkpW",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-21",
+      "device_id": "59b32323dd6f9814"
+    },
+    {
+      "username": "SPOKY",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-110966157-2183109575-1847404516-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-14 14:31:07"
+    },
+    {
+      "username": "HAMAZ",
+      "subscription": "active",
+      "expiry": "2025-05-25",
+      "hwid": "S-1-5-21-2821847369-2303336255-1948539625-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-14 14:41:55"
+    },
+    {
+      "username": "inf",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-722556352-3499781256-1108062957-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 14:48:29"
+    },
+    {
+      "username": "Ayan",
+      "password": "$2y$12$SgJmr2pLTpDKfvdpom.Dfu2mtbkWfxj.11bt8vkXVVAEaInB4tY7y",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-16",
+      "device_id": "34e42a625aa6391d"
+    },
+    {
+      "username": "ANUJ",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-4267686962-1374454667-3849715414-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-14 15:29:16"
+    },
+    {
+      "username": "KRIS",
+      "password": "$2y$12$Zsev58.tkRVy63r6yO.FWOBs7Sb09SdItFWCY4bW6pLb90l6fKm.G",
+      "subscription": "TERMINAL",
+      "expiry": "2025-06-13",
+      "device_id": ""
+    },
+    {
+      "username": "ANKIT",
+      "subscription": "active",
+      "expiry": "2025-06-13",
+      "hwid": "S-1-5-21-977964441-460556253-4201617821-1002",
+      "package": "BYPASS",
+      "created_on": "2025-05-14 16:18:14"
+    },
+    {
+      "username": "ZEROX",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-3583034965-759596818-1758132803-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-14 16:51:14"
+    },
+    {
+      "username": "Ishan",
+      "subscription": "active",
+      "expiry": "2299-02-26",
+      "hwid": "S-1-5-21-1942347907-2836097047-1867010023-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 16:56:12"
+    },
+    {
+      "username": "RAHU",
+      "password": "$2y$12$6W5LkyPiNFkJH.iK.4q/1uD/ZwvteM.QcAJdhaLv4Gkg4pRc/I2Xi",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-18",
+      "device_id": "8c0625d67286a37b"
+    },
+    {
+      "username": "RAAY",
+      "password": "$2y$12$QfJ70klqRh7pxbaJgTdILe/tXVqho5WQM4mwHp7bTENzEfwRn.692",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-07",
+      "device_id": "bd66645cddac1236"
+    },
+    {
+      "username": "TITTAN",
+      "subscription": "active",
+      "expiry": "2025-06-03",
+      "hwid": "S-1-5-21-901028697-85241461-643110997-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 17:25:44"
+    },
+    {
+      "username": "Micky",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-3202734175-2571404297-554178653-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 17:29:39"
+    },
+    {
+      "username": "ali",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-3206985311-3476864033-1188764998-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 17:50:01"
+    },
+    {
+      "username": "ZEROX",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-3583034965-759596818-1758132803-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 17:50:42"
+    },
+    {
+      "username": "SPYD",
+      "password": "$2y$12$F.gH2MphCtsewXmMXMeKc.DsIyeEN99nynLDlMJL.bLbNWL3hHZwG",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-24",
+      "device_id": "f7452de6d3c205eb"
+    },
+    {
+      "username": "oveys",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-173465783-4036071204-4140746979-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 17:58:24"
+    },
+    {
+      "username": "Haidang",
+      "subscription": "active",
+      "expiry": "2025-05-22",
+      "hwid": "S-1-5-21-290995064-1525246960-3320843-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-14 18:15:41"
+    },
+    {
+      "username": "DEB",
+      "subscription": "active",
+      "expiry": "2026-04-12",
+      "hwid": "S-1-5-21-3360161341-1154657162-3270684355-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 19:07:22"
+    },
+    {
+      "username": "PRII",
+      "password": "$2y$12$GdWXPcvSN1PuZ4HGyqzFtekLdxbk6bZyYBefGG0A19g51mYUkCUqa",
+      "subscription": "TERMINAL",
+      "expiry": "2028-02-07",
+      "device_id": "c16245051dde1eb2"
+    },
+    {
+      "username": "NONO",
+      "password": "$2a$12$K68Lb87MXZkbO0jRf3LdseESl21I/9xbjbP9u1fCAWNveMqnem/6S",
+      "subscription": "TERMINAL",
+      "expiry": "2028-02-07",
+      "device_id": "c16245051dde1eb2"
+    },
+    {
+      "username": "JEET",
+      "password": "$2y$12$WoURdMunkY7igupJphbgtOhcUee.MCt7KQrcKIXyGdC6cKDJwabMm",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-21",
+      "device_id": "913aaa700e448f04"
+    },
+    {
+      "username": "ANUJ",
+      "subscription": "active",
+      "expiry": "2026-04-12",
+      "hwid": "S-1-5-21-4267686962-1374454667-3849715414-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 20:10:20"
+    },
+    {
+      "username": "TUFAN",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-2641022198-373128518-3637598822-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 20:11:34"
+    },
+    {
+      "username": "TALA",
+      "password": "$2y$12$rwvrYCDIkcQkHPBhla6fJu1hzpZLI09hsnkkwMNyvtXzKVyrfjHkG",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-21",
+      "device_id": "a018bf5f35dbf59e"
+    },
+    {
+      "username": "TUFAN",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-2641022198-373128518-3637598822-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-14 20:26:16"
+    },
+    {
+      "username": "J",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-644172005-1536671664-4281842593-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 20:38:00"
+    },
+    {
+      "username": "MJFH",
+      "password": "$2y$12$F4j8QERjOLqqSSzHfSEBmejPIw8ShOh4GhY9ibS/BGIDZq3tQ.0cS",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-07",
+      "device_id": "04056f694e137b6a"
+    },
+    {
+      "username": "Quntem",
+      "subscription": "active",
+      "expiry": "2025-05-15",
+      "hwid": "S-1-5-21-659727804-1900801501-2483577666-1004",
+      "package": "BASIC",
+      "created_on": "2025-05-14 20:47:04"
+    },
+    {
+      "username": "J",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-644172005-1536671664-4281842593-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-14 20:47:18"
+    },
+    {
+      "username": "S-1-5-21-1942347907-2836097047-1867010023-1001",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "Ishann",
+      "package": "Aimsilent",
+      "created_on": "2025-05-14 21:26:40"
+    },
+    {
+      "username": "Ishan",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-1942347907-2836097047-1867010023-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 21:33:43"
+    },
+    {
+      "username": "PANDU",
+      "subscription": "active",
+      "expiry": "2028-02-07",
+      "hwid": "S-1-5-21-1410285956-3855014504-3134181061-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 22:41:08"
+    },
+    {
+      "username": "Li12",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-663387735-1746123650-428369-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 23:07:57"
+    },
+    {
+      "username": "sina",
+      "subscription": "active",
+      "expiry": "2026-05-14",
+      "hwid": "S-1-5-21-2258051560-3910803433-410668277-1000",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-14 23:43:37"
+    },
+    {
+      "username": "sens",
+      "subscription": "active",
+      "expiry": "2028-02-08",
+      "hwid": "S-1-5-21-803248063-1148057494-2362387348-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-15 06:01:00"
+    },
+    {
+      "username": "SURI",
+      "password": "$2y$12$Gt5TbtgNJK3ywPTT/x2m5.TI5myYFZPMGfbNm5zZwEEoCHZz9ee/S",
+      "subscription": "TERMINAL",
+      "expiry": "2027-07-01",
+      "device_id": "4f8e8c92f92e330f"
+    },
+    {
+      "username": "Rsm",
+      "subscription": "active",
+      "expiry": "2028-02-08",
+      "hwid": "S-1-5-21-1182663442-192178053-222768382-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-15 12:33:58"
+    },
+    {
+      "username": "NAKUL",
+      "subscription": "active",
+      "expiry": "2025-08-13",
+      "hwid": "S-1-5-21-2027271465-187890152-407863548-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-15 12:57:19"
+    },
+    {
+      "username": "PRITAMX999",
+      "password": "$2y$12$L95Q5zOoA7d1XDmFVJtisuazdO7OdtFkx/a2bdqYe7WqxXdmLAwbO",
+      "subscription": "MURGI SURI",
+      "expiry": "2025-05-24",
+      "device_id": "",
+      "free_user": true
+    },
+    {
+      "username": "HARS",
+      "password": "$2y$12$WDoWwnB2tup8Gmsn.NWNfOFKMx2Zhtfw5qpdGFQHjRa.aTWK3Vt9a",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-26",
+      "device_id": "53edac8cfa84ab08"
+    },
+    {
+      "username": "NEHA",
+      "password": "$2y$12$23fr/H81qMY.Cz9sKKJFmOu8OJtCAu8wWNJsYmltv7eW5pBnMm/6O",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-08",
+      "device_id": "4b2698c2a9e4aa1e"
+    },
+    {
+      "username": "ANKITT",
+      "subscription": "active",
+      "expiry": "2028-02-08",
+      "hwid": "S-1-5-21-977964441-460556253-4201617821-1002",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-15 17:26:01"
+    },
+    {
+      "username": "RANA",
+      "password": "$2y$12$aNsn0wIV2/4G36C.x72mQuq0tb1L3LLtiR7qu8XGpDFQBxKn8YeN.",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-11",
+      "device_id": "924c42e62510e43d"
+    },
+    {
+      "username": "RIYA",
+      "password": "$2y$12$ARXWx8Wm6Nb8vEmjfF.Y8uHbYlQM/PANBRQXy7UOvTWf66P.m.ulC",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-20",
+      "device_id": "17920e0720c4086d"
+    },
+    {
+      "username": "JAGA",
+      "password": "$2y$12$UBnzQ09rjO7MZ2ZQu.bt8eUnPdoeFeDyEbtvXa/oRtnEojFG.kl4S",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-20",
+      "device_id": "4cc1dd083b150283"
+    },
+    {
+      "username": "DECE",
+      "password": "$2y$12$Q1HCr/iL62bUkOLFETDEuOdqW9i5uLhl0edMzuNJPKcXnk8Q1gGpy",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-11",
+      "device_id": "8d5289bd956eb146"
+    },
+    {
+      "username": "ALMI",
+      "subscription": "active",
+      "expiry": "2028-02-08",
+      "hwid": "S-1-5-21-1677249831-2637855408-3467438924-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-15 19:53:05"
+    },
+    {
+      "username": "hari",
+      "subscription": "active",
+      "expiry": "2025-06-04",
+      "hwid": "S-1-5-21-2640139381-631028768-1918237451-1001",
+      "package": "brutal",
+      "created_on": "2025-05-15 19:54:08"
+    },
+    {
+      "username": "jame",
+      "password": "$2y$12$m/DZ5d6LlHF9sjqhOcB1E.SCuNsEBHv0LSUX4xKyikHwdP0N51dLq",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-16",
+      "device_id": ""
+    },
+    {
+      "username": "AGAS",
+      "subscription": "active",
+      "expiry": "2025-06-03",
+      "hwid": "S-1-5-21-1325224857-1400906267-2737288692-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-15 20:48:05"
+    },
+    {
+      "username": "jRme",
+      "password": "$2y$12$xpnu0CAf00B3L3LcsXMeGuFlnuFHQWNUajGFJOHaRUaM76kO1G.Ey",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-16",
+      "device_id": ""
+    },
+    {
+      "username": "ANKIT",
+      "subscription": "active",
+      "expiry": "2028-02-08",
+      "hwid": "S-1-5-21-977964441-460556253-4201617821-1002",
+      "package": "brutal",
+      "created_on": "2025-05-15 23:20:30"
+    },
+    {
+      "username": "rahu",
+      "password": "$2y$12$egXZz46ptALtkoaQ7ppl8udBYJX.GTf1eb1apyASH.0y9CHWNGHy2",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-09",
+      "device_id": ""
+    },
+    {
+      "username": "GANDU",
+      "password": "$2y$12$/4T/WcCF1yfcgKctX5w0rOqQ3uq27zP4dObCVM80.hrih0kK1HUZC",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-05",
+      "device_id": "767ae7b3fa6f5fb4"
+    },
+    {
+      "username": "Roha",
+      "password": "$2y$12$yLO4NAbMZArufONRsgWCseNB7qiSgd8MZvNvfblAUI75PHPFwbVgW",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-27",
+      "device_id": ""
+    },
+    {
+      "username": "Roha",
+      "password": "$2y$12$umvp/bb6uEIMKizqQMFIeOsYE4/SxrHEyZDQdEBsfQE1t19M3Cs6a",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-27",
+      "device_id": ""
+    },
+    {
+      "username": "BOKACHODA",
+      "password": "$2y$12$k3pm2XESeQNK/QYam.gvmufOsGgZrww5tFiUD.Mv1u0Ol6Z65swkq",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-14",
+      "device_id": "767ae7b3fa6f5fb4"
+    },
+    {
+      "username": "ALMI",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-1677249831-2637855408-3467438924-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-16 04:53:02"
+    },
+    {
+      "username": "AADI",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-2864029628-3466064232-2185079176-1001",
+      "package": "brutal",
+      "created_on": "2025-05-16 07:22:45"
+    },
+    {
+      "username": "Txic",
+      "password": "$2y$12$QRgsWv9F39o0uiCNgNhSNerbD8/ZDWnc0R4AWmGgegH..akLbHMXG",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-15",
+      "device_id": "5549fba10d576abd"
+    },
+    {
+      "username": "Ashi",
+      "subscription": "active",
+      "expiry": "2026-05-16",
+      "hwid": "S-1-5-21-1463702772-1162547365-2641803641-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 08:45:45"
+    },
+    {
+      "username": "nori",
+      "subscription": "active",
+      "expiry": "2026-05-16",
+      "hwid": "S-1-5-21-2890340357-3851797351-688030660-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 08:55:52"
+    },
+    {
+      "username": "SAWE",
+      "password": "$2y$12$Wi3YWy2M3820M3UP22w4FuH2FpvcVGSkpEZ9xGEZuQH3Ag.bapjUe",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-17",
+      "device_id": "9ba8690bb93844b3"
+    },
+    {
+      "username": "sawez",
+      "subscription": "active",
+      "expiry": "2025-05-17",
+      "hwid": "S-1-5-21-3193432180-1596868546-2044177126-1001",
+      "package": "brutal",
+      "created_on": "2025-05-16 09:23:50"
+    },
+    {
+      "username": "MANAV",
+      "subscription": "active",
+      "expiry": "2025-08-14",
+      "hwid": "S-1-5-21-1794794606-3551489686-2898515048-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-16 09:42:56"
+    },
+    {
+      "username": "rand",
+      "password": "$2y$12$..x2RaGZswUomyeEuxbTouObvO1f.OAwqsmeMxFZ3WMtzNVEFx0Sy",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-26",
+      "device_id": "6592ceef8328ba88"
+    },
+    {
+      "username": "JEET",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-1990388479-1649717552-642394456-1001",
+      "package": "brutal",
+      "created_on": "2025-05-16 11:56:40"
+    },
+    {
+      "username": "ADHEE",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-305799847-2049146969-1116528118-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 13:13:58"
+    },
+    {
+      "username": "ADHEE",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-305799847-2049146969-1116528118-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 13:19:03"
+    },
+    {
+      "username": "ASHIF",
+      "subscription": "active",
+      "expiry": "2025-05-23",
+      "hwid": "S-1-5-21-3962751432-46532126-2045177528-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-16 13:20:08"
+    },
+    {
+      "username": "GOAT",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-189449505-2551645838-2968526055-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 13:26:46"
+    },
+    {
+      "username": "GOAT",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-189449505-2551645838-2968526055-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 13:52:30"
+    },
+    {
+      "username": "madies",
+      "subscription": "active",
+      "expiry": "2026-05-16",
+      "hwid": "S-1-5-21-3017438299-13198847-1093082639-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 13:56:26"
+    },
+    {
+      "username": "AADI",
+      "subscription": "active",
+      "expiry": "2025-06-15",
+      "hwid": "S-1-5-21-2864029628-3466064232-2185079176-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 14:23:43"
+    },
+    {
+      "username": "JEET",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-1990388479-1649717552-642394456-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 14:30:31"
+    },
+    {
+      "username": "YASHRAJ",
+      "password": "$2y$12$TwpHaQlyicog347z3HUtkuKWuqYxZPa9y4gy2.o3dLYhbeLBWPhVK",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-18",
+      "device_id": ""
+    },
+    {
+      "username": "YSSH",
+      "password": "$2y$12$4XtFK2.O75xuAKZRsccUnuLn3c1WzaQrjqW.IqMR3XTlYFGi9KnLa",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-18",
+      "device_id": "c84bdd500e6373bf"
+    },
+    {
+      "username": "Unknown",
+      "subscription": "active",
+      "expiry": "2028-02-09",
+      "hwid": "S-1-5-21-2167268442-3812698240-3020815263-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 15:49:33"
+    },
+    {
+      "username": "IMBA",
+      "password": "$2y$12$UUA9j2WpksSVdXVuRheXnuPnif0Qem6mV4HyF7DSBKjm.jIBJDeue",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-23",
+      "device_id": "7671dd6dc2572c38"
+    },
+    {
+      "username": "LKNG",
+      "password": "$2y$12$7aMm88tvOaR3vp/9ox3xi.Vgs1la6/rqiW7CWE5HcIFehnLEzvvAu",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-23",
+      "device_id": "0a0dd2ebba31219a"
+    },
+    {
+      "username": "Arnab",
+      "subscription": "active",
+      "expiry": "2025-08-14",
+      "hwid": "S-1-5-21-4164204812-546079590-1512492612-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 18:20:06"
+    },
+    {
+      "username": "AYAN",
+      "password": "$2y$12$gP2K1HzsQpTljifTXscyJO/NKtxYidS8W.jK2jGoMGT2UB7w1QbA.",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-23",
+      "device_id": "b1cc65a5460add9c"
+    },
+    {
+      "username": "ARQAM",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-2181548132-3297546584-1706969923-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 18:28:30"
+    },
+    {
+      "username": "LUSS",
+      "password": "$2y$12$XZO79qbXvsUDCQFyTea27uJUWX7Sgq6z32RStKatjwJqKhd9EFqVy",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-23",
+      "device_id": ""
+    },
+    {
+      "username": "INDR",
+      "password": "$2y$12$RUHKmsW4uq1VIccxFxWnoO.kNkP0QMx8ljM9g470yPMksU2q4/0EG",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-26",
+      "device_id": "7ba4d43ae17ba42a"
+    },
+    {
+      "username": "ajay",
+      "subscription": "active",
+      "expiry": "2025-08-14",
+      "hwid": "S-1-5-21-3027380158-1070510020-703095190-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 18:59:06"
+    },
+    {
+      "username": "BANKAI",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-1284952374-3882056840-1443372719-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 19:06:07"
+    },
+    {
+      "username": "BRITISH",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-3007508494-507207499-387441069-500",
+      "package": "brutal",
+      "created_on": "2025-05-16 19:29:44"
+    },
+    {
+      "username": "QWER",
+      "subscription": "active",
+      "expiry": "2025-05-28",
+      "hwid": "S-1-5-21-2691430156-2144602688-1856980433-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-16 19:35:08"
+    },
+    {
+      "username": "TITI",
+      "password": "$2y$12$b0sBIvQJS69z9k27zxC6Ae/iN.jcHDY6l2rqm01QKywXU7T5UReNO",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-23",
+      "device_id": "3f7b3aadd445057b"
+    },
+    {
+      "username": "GUJH",
+      "password": "$2y$12$b15bkXLFVx5xka81ycnwuez/BxMO9XaKo73aUZwFL4C8RBWcZHyZK",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-14",
+      "device_id": ""
+    },
+    {
+      "username": "YORY",
+      "password": "$2y$12$qxlayIfXWykffKb9XOYh2OVJcbmf4p8kWt3eTQGISCYOK6XEWJlLO",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-18",
+      "device_id": "dab359cc99566f7d"
+    },
+    {
+      "username": "TUFA",
+      "password": "$2y$12$gVJOULSvApi7.44k9IsRQOwm7FOuFsPlj9XBGEhbdDy9CHcAprnae",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-18",
+      "device_id": "fb0e3bbddae849a7"
+    },
+    {
+      "username": "DIPU",
+      "subscription": "active",
+      "expiry": "2025-08-23",
+      "hwid": "S-1-5-21-2825982252-2297302927-1133496145-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-16 20:12:05"
+    },
+    {
+      "username": "MOON",
+      "subscription": "active",
+      "expiry": "2027-07-02",
+      "hwid": "S-1-5-21-3223120712-942923925-4116530235-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 20:44:41"
+    },
+    {
+      "username": "LUCI",
+      "password": "$2y$12$0yY1C/qo3xnBaKEpDotGPeK9OigGEb2xY6Cc5IodbpIsHzotDUrHm",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-14",
+      "device_id": "e6ab71a6d80287d3"
+    },
+    {
+      "username": "LK",
+      "password": "$2y$12$PLexP02qe278JfQtiXclluz4ll4LUtfynwKm94Ew6p3ejt.dkXbB6",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-18",
+      "device_id": "de813dcd6039e521"
+    },
+    {
+      "username": "ninja",
+      "subscription": "active",
+      "expiry": "2026-05-16",
+      "hwid": "S-1-5-21-2367776340-2762393669-78294691-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-16 20:48:44"
+    },
+    {
+      "username": "BOKACHODA",
+      "password": "$2y$12$zuKBEub2xLnhFSAFe/gju.HB.vv8UGe0idUSXOXX0zQoxjtzpdmMO",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-14",
+      "device_id": ""
+    },
+    {
+      "username": "KOLA",
+      "password": "$2y$12$R9nG8R/mZaxWri7buYnHCeSAvVerjXZ.qqAfWDhhU2j5MfEYttaK.",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-23",
+      "device_id": "230b5ac8b29f982e"
+    },
+    {
+      "username": "rohan",
+      "password": "$2y$12$2V7lUh6wQaz/dgrrpJW4nO/jAB2cU9Wvf/vzvwi8V8zImyrzQMfC2",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-14",
+      "device_id": "767ae7b3fa6f5fb4"
+    },
+    {
+      "username": "YASH",
+      "password": "$2y$12$LdDBdzaAabcxneqOj25VgOHuJsZ1aa4k60gxye5IbBvFkr76PRbGy",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-09",
+      "device_id": "7d34fd0789d55908"
+    },
+    {
+      "username": "KAWE",
+      "password": "$2y$12$k9mOLR590q4TRvSZZM9UVurCJuXlMu9VXr3yiVpUDFolJZiePsDR6",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-23",
+      "device_id": "9ba8690bb93844b3"
+    },
+    {
+      "username": "LIKE",
+      "password": "$2y$12$0lhF0lDEmYdTONP0AUbkue0OKqfFGTOIBZp18nEY9eHryrL63uFtK",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-20",
+      "device_id": "",
+      "free_user": true
+    },
+    {
+      "username": "JAYESH",
+      "subscription": "active",
+      "expiry": "2027-06-22",
+      "hwid": "S-1-5-21-4202874261-408175442-1541024227-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-17 09:03:34"
+    },
+    {
+      "username": "VISU",
+      "password": "$2y$12$ltSgur6zDXlj3YrM/F5HQehoW89JghqRmY25y5crStfjo72FRVRb6",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-18",
+      "device_id": "c72a8854f12ee5ef"
+    },
+    {
+      "username": "RAJIB",
+      "subscription": "active",
+      "expiry": "2028-02-10",
+      "hwid": "S-1-5-21-1851986126-832147957-2071167634-500",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-17 10:31:28"
+    },
+    {
+      "username": "PRAA",
+      "password": "$2y$12$nLinFrPiaYCcpsKqioaq6.oAfQ2/IGr3KTS44tZ2CIOGrQPAiRQY.",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-22",
+      "device_id": "3963fae23bcca8a8"
+    },
+    {
+      "username": "shetty",
+      "subscription": "active",
+      "expiry": "2025-05-27",
+      "hwid": "S-1-5-21-518435956-3134023041-2279665471-1001",
+      "package": "brutal",
+      "created_on": "2025-05-17 13:38:08"
+    },
+    {
+      "username": "ZORO",
+      "password": "$2y$12$bJD3EeHdoG.Da0v1oJznXur9jKFvfSiUwv0dLYKSLA/dFNWBhz1nm",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-27",
+      "device_id": "35cee31c7d434bfb"
+    },
+    {
+      "username": "Aman",
+      "password": "$2y$12$uZzoxQ5h2Na6zK9EL5KnROhtnFEgJXgZOdDdkb1MmbYDlg525zj0e",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-18",
+      "device_id": "4089ecf98ed2aa85"
+    },
+    {
+      "username": "boss",
+      "password": "$2y$12$IbYwedZy4c5wCsQEdXpmxOCyIfSzh6D6KR.4NYpx4qv6xK6ws1kRK",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-27",
+      "device_id": "277ba066114cb693"
+    },
+    {
+      "username": "VASU",
+      "password": "$2y$12$nCzKT1tJBNrx43rkhpcQUe7xOf.OgMVhupFsM.mbltMjodAd51BW.",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-18",
+      "device_id": "494ddd80869bc024"
+    },
+    {
+      "username": "BOSS",
+      "password": "$2y$12$SZ2xiT38i3XEQzkLGBa5FO2w8u5m5khAJOqIcPWzfoYjr7gIV1iry",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": "cfba29f6a72bef8a"
+    },
+    {
+      "username": "DEEP",
+      "password": "$2y$12$P4SwxADXCFj8iN83y4S.jeVqVvp5bVC34vIVxRK8bLpGKSqTZ55Mq",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-16",
+      "device_id": "944d1fb7e5f46c3d"
+    },
+    {
+      "username": "ZER0",
+      "password": "$2y$12$HXTxyBod0h0QbCihi6aleOAPap0PNzD3XA9MDb201F2gz6rZBF4V2",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": ""
+    },
+    {
+      "username": "ZER0",
+      "password": "$2y$12$3TEUXscskT3YbYVKbykk6O9uXiOyu9/UQz2vuuN1hWxHP2DKIMxVS",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": ""
+    },
+    {
+      "username": "HER0",
+      "password": "$2y$12$OM3JRLn9xVOvzHiZYUz44uMg8qpv9iyv46ATWe0Bmno3vitodKfru",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": ""
+    },
+    {
+      "username": "HER0",
+      "password": "$2y$12$bJdKTZI2IfPQnDKX6AHYu.q23YFnCV/dkh2dzTv.jO.NTa7d7gktW",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": ""
+    },
+    {
+      "username": "like",
+      "password": "$2y$12$m5TQUJm14nRbb.7fxF1ddegcaXaBY/7KYhu0/oNXQPxOtkxHSXRj6",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-24",
+      "device_id": "d92e64dd76461bda"
+    },
+    {
+      "username": "ARYA",
+      "password": "$2y$12$y1gNSdkjfiRb.ey0mG3nQOP79o/xG5UCPYxoOzYR160xl8OJaywlG",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-24",
+      "device_id": "d8376199857f1468"
+    },
+    {
+      "username": "OWNS",
+      "password": "$2y$12$.gDiY9Q3LX7ays23NcqVg.awN5Q1r.IpV/kzA9EyBZWs8bUCrc4zu",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": "c5c6d74845d091bf"
+    },
+    {
+      "username": "ZERO",
+      "password": "$2y$12$cS42fLDBFKemgz0mMLiEbu7oa8Qy6K/HaWGyTijZpLGiE7PlZiwr.",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": "4abec78b81c580fa"
+    },
+    {
+      "username": "STAF",
+      "password": "$2y$12$hfTLkyUvH8X/LIjmQfw6v.M0dadhqzgOTDMKVsmsQj5q/DcHQEnqu",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-10",
+      "device_id": "fb0e3bbddae849a7"
+    },
+    {
+      "username": "CKJL",
+      "password": "$2y$12$79.Y1Qk9XLUiG4GLGuY0.OL2VWdH93G.QI7PWPmSssr2CZ8CngS4y",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-17",
+      "device_id": ""
+    },
+    {
+      "username": "FARHAN",
+      "subscription": "active",
+      "expiry": "2026-11-24",
+      "hwid": "S-1-5-21-698918686-3797596821-4151670693-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-18 08:25:20"
+    },
+    {
+      "username": "RONIT",
+      "subscription": "active",
+      "expiry": "2025-08-25",
+      "hwid": "S-1-5-21-1284952374-3882056840-1443372719-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-18 08:29:37"
+    },
+    {
+      "username": "GAND",
+      "password": "$2y$12$jEuhdJkHzMhjzm./lMWFMeLVy.o32kpYJYWs1M1RycymzHrHw130i",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-17",
+      "device_id": ""
+    },
+    {
+      "username": "SAIK",
+      "password": "$2y$12$n8JDyViBT9RBzW7QKd/6XuJ90emtMlPy2iTyurSMT6Eyf2qpKvGd.",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-24",
+      "device_id": "9b07c0debb2b874a"
+    },
+    {
+      "username": "Pani",
+      "password": "$2y$12$bIl0quo2L0yZ9dNFZKDZ/uZQ5Nh9Fg8Hodg9M/3fohvkyiAf0gXaa",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-25",
+      "device_id": ""
+    },
+    {
+      "username": "bhoo",
+      "password": "$2y$12$X3Gb3qz0nQSyJXkjvPHAxuhLhnvwJZpiP3rs4VMV4ets9RDc4lGKO",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-27",
+      "device_id": ""
+    },
+    {
+      "username": "LOLL",
+      "password": "$2y$12$Cz1/kc/Hh96aYwKv48tTW.UOprLtMeKgtMDIEhOOq7LmhgBrE8PRe",
+      "subscription": "TERMINAL",
+      "expiry": "2025-05-27",
+      "device_id": "dab359cc99566f7d"
+    },
+    {
+      "username": "OWNZ",
+      "password": "$2y$12$3nlXlrXI8AU58J43Fkufru/Ih21mqs0FB2KMPzGFbA7ZUxw2MN81a",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-11",
+      "device_id": "b249a9159c7b2525"
+    },
+    {
+      "username": "LAXM",
+      "password": "$2y$12$elxRT/Vjh0Q3GzGKspLe5u6hpxfvzLpe8Gx0EMrDeHyMmzef09Soe",
+      "subscription": "aimkillapk",
+      "expiry": "2028-02-11",
+      "device_id": "45ce24a5dea9986a"
+    },
+    {
+      "username": "RANDO",
+      "subscription": "active",
+      "expiry": "2025-08-14",
+      "hwid": "S-1-5-21-1758514921-1541854550-2860068448-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-18 11:36:14"
+    },
+    {
+      "username": "BROKEN",
+      "password": "$2y$12$khBOAVRJvwQvpcddo.DHHe9VMQTkByu37TaFhJMrDd6uKQPXhvgRW",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-20",
+      "device_id": "72e499c9dbf0f966"
+    },
+    {
+      "username": "GANGSTER",
+      "subscription": "active",
+      "expiry": "2025-06-17",
+      "hwid": "S-1-5-21-2593284183-2007454903-3392013623-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-18 13:02:14"
+    },
+    {
+      "username": "manifree",
+      "password": "$2y$12$7zL47kDR5ANNwwdBqOPFfuFCDuezO54DUcD3MuesgRlOoqREiZp6.",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-25",
+      "device_id": "",
+      "free_user": true
+    },
+    {
+      "username": "AJAY",
+      "password": "$2y$12$duErMBOAxwijxmAjSxBsYe7dSOGJ4ERKtQI3ckpheTA7PGaKZgteS",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-14",
+      "device_id": ""
+    },
+    {
+      "username": "LEGI",
+      "password": "$2y$12$WZkj6GtpH1xHFyYHvmyx2OexUsIIKnBHRQsc0lDcg3OouU7p63oo2",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-17",
+      "device_id": "1b45e2930b96e48a"
+    },
+    {
+      "username": "PHON",
+      "password": "$2y$12$MjbTQZg7HVnRIsClYOd0TuVjjX5018l97ykTWrdVg1b0KB9ZTVMj.",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-25",
+      "device_id": "6c7776edc65d3fad"
+    },
+    {
+      "username": "ARNAB",
+      "subscription": "active",
+      "expiry": "2025-06-17",
+      "hwid": "S-1-5-21-4164204812-546079590-1512492612-1001",
+      "package": "BYPASS",
+      "created_on": "2025-05-18 13:45:57"
+    },
+    {
+      "username": "CARR",
+      "password": "$2y$12$kiM1h3EYVgCesLsbWEl5SuTSfKb1/4YWjRAQ1W5NO8kQsFNY3HPXW",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-25",
+      "device_id": "cc32c602656d9deb"
+    },
+    {
+      "username": "AJAY",
+      "subscription": "active",
+      "expiry": "2025-08-25",
+      "hwid": "S-1-5-21-3366711328-1152691104-2001499572-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-18 19:05:24"
+    },
+    {
+      "username": "SEET",
+      "password": "$2y$12$Wa9ZPtE1QPMErpvUFidDfeEkCMxpFk14ohzVNuyKO.OSsvfeqUNne",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-16",
+      "device_id": "4a506212ff713411"
+    },
+    {
+      "username": "DEEP",
+      "subscription": "active",
+      "expiry": "2028-02-11",
+      "hwid": "S-1-5-21-2016953032-4052583535-1125345094-1001",
+      "package": "BRUTAL",
+      "created_on": "2025-05-18 20:10:06"
+    },
+    {
+      "username": "SHIV",
+      "password": "$2y$12$RWDFb9JqUCJ6nzJOPx/hied/1k7/6ZXDE1WWRiB0SRKdYl.qrcMaa",
+      "subscription": "aimkillapk",
+      "expiry": "2025-06-17",
+      "device_id": "66ecbdf63c162445"
+    },
+    {
+      "username": "LUND",
+      "password": "$2y$12$KsVzH5cF1l3IU./zC.x8WOKTwYU0Qr5eR0Y6f2N/mpT8GboVp1ILG",
+      "subscription": "TERMINAL",
+      "expiry": "2025-08-25",
+      "device_id": "f7452de6d3c205eb"
+    },
+    {
+      "username": "WABA",
+      "password": "$2y$12$0S/T9w2a9FHxzBA9ugI6/u3e8yVI5wcTi5Xigs/byew43u.vfQiy2",
+      "subscription": "aimkillapk",
+      "expiry": "2025-05-19",
+      "device_id": "aedbde834792ddc1"
+    },
+    {
+      "username": "james",
+      "subscription": "active",
+      "expiry": "2025-08-26",
+      "hwid": "S-1-5-21-317705139-3613167057-63835451-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 07:25:14"
+    },
+    {
+      "username": "DIVYANSHU",
+      "subscription": "active",
+      "expiry": "2025-08-26",
+      "hwid": "S-1-5-21-4040483468-940512426-3394900510-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 08:05:15"
+    },
+    {
+      "username": "DIVYANSHU",
+      "subscription": "active",
+      "expiry": "2025-08-26",
+      "hwid": "S-1-5-21-4040483468-940512426-3394900510-1001",
+      "package": "aimsilent",
+      "created_on": "2025-05-19 08:10:35"
+    },
+    {
+      "username": "LAXMAN",
+      "subscription": "active",
+      "expiry": "2025-08-26",
+      "hwid": "S-1-5-21-1606523268-789702888-1191449664-1001",
+      "package": "aimsilent",
+      "created_on": "2025-05-19 09:09:48"
+    },
+    {
+      "username": "EVAN",
+      "subscription": "active",
+      "expiry": "2025-06-18",
+      "hwid": "S-1-5-21-424592145-3456602130-1320702288-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 10:05:50"
+    },
+    {
+      "username": "EVAN",
+      "subscription": "active",
+      "expiry": "2025-06-18",
+      "hwid": "S-1-5-21-424592145-3456602130-1320702288-1001",
+      "package": "BASIC",
+      "created_on": "2025-05-19 10:15:11"
+    },
+    {
+      "username": "BLUZ",
+      "subscription": "active",
+      "expiry": "2025-07-18",
+      "hwid": "S-1-5-21-1953407757-2385449237-3248487151-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 11:23:02"
+    },
+    {
+      "username": "ASIM",
+      "subscription": "active",
+      "expiry": "2025-08-26",
+      "hwid": "S-1-5-21-3823961382-2504592237-559331975-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 11:38:55"
+    },
+    {
+      "username": "alie",
+      "password": "$2y$12$GFc6GkilcFFPmuafWWksFu8BfpA946nL1m3BbK9DlJJWtdDJoOMI6",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-26",
+      "device_id": ""
+    },
+    {
+      "username": "SAKIB",
+      "subscription": "active",
+      "expiry": "2025-05-21",
+      "hwid": "S-1-5-21-1772885899-3611065526-721161794-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 15:12:12"
+    },
+    {
+      "username": "ROHAN",
+      "password": "$2y$12$yUy5pNP7Po80rCKtS3C73ehiZznRCa1SFPvBua/Cw2DdAdgXipbZi",
+      "subscription": "aimkillapk",
+      "expiry": "2025-08-17",
+      "device_id": "767ae7b3fa6f5fb4"
+    },
+    {
+      "username": "VAMPIRE",
+      "subscription": "active",
+      "expiry": "2025-05-20",
+      "hwid": "S-1-5-21-2172436073-3952376327-875673397-1001",
+      "package": "AIMSILENT",
+      "created_on": "2025-05-19 15:38:31"
+    },
+    {
+      "username": "KRISH",
+      "password": "$2y$12$ewQrjFyl2Jni9VVQddvEj.sICBgY1GOjR4JR9CfUsuzp5qoEljbt2",
+      "subscription": "TERMINAL",
+      "expiry": "2025-06-08",
+      "device_id": "2cac77f5a04a4393"
+    }
+  ]
+}
