@@ -1,3 +1,12 @@
 {
-    "admin": []
+    "admin": [
+        {
+            "username": "lucifer",
+            "subscription": "active",
+            "expiry": "2025-07-31",
+            "hwid": "S-1-5-21-1022713647-4034226811-1362261340-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-06-26 20:07:19"
+        }
+    ]
 }
