@@ -39,6 +39,14 @@
             "hwid": "S-1-5-21-3860214367-521931361-940576448-1001",
             "package": "AIMSILENT",
             "created_on": "2025-07-08 20:43:13"
+        },
+        {
+            "username": "Rang",
+            "subscription": "active",
+            "expiry": "2028-04-03",
+            "hwid": "S-1-5-21-341360395-3466097476-3458657883-1002",
+            "package": "AIMSILENT",
+            "created_on": "2025-07-09 04:36:20"
         }
     ]
 }
