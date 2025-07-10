@@ -63,6 +63,14 @@
             "hwid": "S-1-5-21-3360161341-1154657162-3270684355-1001",
             "package": "AIMSILENT",
             "created_on": "2025-07-09 12:11:23"
+        },
+        {
+            "username": "MANAS",
+            "subscription": "active",
+            "expiry": "2052-11-24",
+            "hwid": "S-1-5-21-4119080317-3931333532-668038602-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-07-10 12:23:08"
         }
     ]
 }
