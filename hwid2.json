@@ -31,6 +31,14 @@
             "hwid": "S-1-5-21-2337294409-2608439068-301286195-1001",
             "package": "AIMSILENT",
             "created_on": "2025-07-10 21:28:32"
+        },
+        {
+            "username": "Samosa",
+            "subscription": "active",
+            "expiry": "2025-07-16",
+            "hwid": "S-1-5-21-2947109599-2630540122-3852950164-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-07-11 05:21:26"
         }
     ]
 }
