@@ -143,6 +143,14 @@
             "hwid": "pc",
             "package": "AIMSILENT",
             "created_on": "2025-07-28 13:44:48"
+        },
+        {
+            "username": "Harshit",
+            "subscription": "active",
+            "expiry": "2028-04-22",
+            "hwid": "S-1-5-21-154546461-3429819150-3970963999-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-07-28 13:54:39"
         }
     ]
 }
