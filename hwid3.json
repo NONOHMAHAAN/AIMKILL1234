@@ -151,6 +151,14 @@
             "hwid": "S-1-5-21-154546461-3429819150-3970963999-1001",
             "package": "AIMSILENT",
             "created_on": "2025-07-28 13:54:39"
+        },
+        {
+            "username": "blade",
+            "subscription": "active",
+            "expiry": "2028-04-23",
+            "hwid": "S-1-5-21-154356461-3429819150-3970963909-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-07-29 13:22:01"
         }
     ]
 }
