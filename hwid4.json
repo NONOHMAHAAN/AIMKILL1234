@@ -135,6 +135,14 @@
             "hwid": "S-1-5-21-2006103916-1981489955-2240824115-1002",
             "package": "AIMSILENT",
             "created_on": "2025-09-01 06:35:30"
+        },
+        {
+            "username": "roni",
+            "subscription": "active",
+            "expiry": "2025-09-12",
+            "hwid": "computer",
+            "package": "AIMSILENT",
+            "created_on": "2025-09-02 09:05:49"
         }
     ]
 }
