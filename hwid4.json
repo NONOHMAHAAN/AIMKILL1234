@@ -151,6 +151,14 @@
             "hwid": "computer",
             "package": "AIMSILENT",
             "created_on": "2025-09-02 10:35:37"
+        },
+        {
+            "username": "lobby",
+            "subscription": "active",
+            "expiry": "2025-09-12",
+            "hwid": "S-1-5-21-3723312661-777954694-3272592053-1001",
+            "package": "AIMSILENT",
+            "created_on": "2025-09-02 10:54:40"
         }
     ]
 }
